@@ -1,0 +1,48 @@
+header{
+    background-color: #E6E6E6;
+}
+.imagen_batman{text-align: center;}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: #005677;
+    text-align: center;
+    font-size: 35px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    background-color: #C4C4C4;
+    height: 50px;
+}
+h2{
+    color: #005677;
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 5px;
+    background-color: #C4C4C4;
+    height: 35px;
+}
+span{
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 23px;
+}
+.cursiva{
+    font-style: italic;
+}
+div{
+    text-indent: 70px;
+}
+.listas{
+    line-height: 27px;
+}
+.espaciado, .espaciado_abajo{
+    margin: 150px;
+}
+footer{
+    font-size: 20px;
+    background-color: #005677;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
